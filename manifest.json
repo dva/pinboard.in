@@ -3,13 +3,12 @@
 
     "name": "Simple Pinboard.in Client",
     "description": "Opens a little form window when you want to bookmark a page.",
-    "version": "0.1.0",
+    "version": "0.1.2",
 
     "icons": {
-        "16": "icons/pinboard-16-icon.png",
-        "32": "icons/pinboard-32-icon.png",
-        "48": "icons/pinboard-48-icon.png",
-        "128": "icons/pinboard-128-icon.png"
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
     },
 
     "permissions": [
