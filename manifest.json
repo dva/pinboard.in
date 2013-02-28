@@ -3,7 +3,7 @@
 
     "name": "Simple Pinboard.in Client",
     "description": "Opens a little form window when you want to bookmark a page.",
-    "version": "0.1.2",
+    "version": "0.1.3",
 
     "icons": {
         "16": "icons/icon16.png",
